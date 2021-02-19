@@ -1,0 +1,29 @@
+body{
+  background-color:#EAFAF1 ;
+}
+  hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-color:olive;
+      border-width: 5px;
+      width:5%;
+  }
+  h1{
+      color: #66BFBF;
+  }
+h1:hover
+{
+  color:olive;
+}
+h3{
+    color:#66BFBF;
+}
+button:hover
+{
+  color: blue;
+}
+/************************** CLASS SELECTOR ******************/
+.profile
+{
+  border-radius: 100%;
+}
